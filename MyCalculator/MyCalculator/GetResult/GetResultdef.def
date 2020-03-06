@@ -1,0 +1,6 @@
+LIBRARY "GetResult.dll"
+
+EXPORTS
+
+trans @ 1
+compvalue @ 2

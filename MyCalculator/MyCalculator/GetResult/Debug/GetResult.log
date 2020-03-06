@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  GetResult.cpp
+e:\大三\windows编程\calculator\mycalculator\getresult\getresult.cpp(238): warning C4244: “参数”: 从“long double”转换到“int”，可能丢失数据
+e:\大三\windows编程\calculator\mycalculator\getresult\getresult.cpp(218): warning C4297: “compvalue”: 假定函数不引发异常，但确实发生了
+  e:\大三\windows编程\calculator\mycalculator\getresult\getresult.cpp(218): note: 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+  正在生成代码...
+    正在创建库 E:\大三\windows编程\calculator\MyCalculator\Debug\GETRESULT.lib 和对象 E:\大三\windows编程\calculator\MyCalculator\Debug\GETRESULT.exp
+  GetResult.vcxproj -> E:\大三\windows编程\calculator\MyCalculator\Debug\GETRESULT.dll

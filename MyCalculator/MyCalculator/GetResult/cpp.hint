@@ -1,0 +1,2 @@
+﻿#define GETRESULT_API __declspec(dllexport)
+#define GETRESULT_API __declspec(dllimport)
